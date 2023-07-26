@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badhan</h1>
-<h3 align="center">A passionate about coding from Bangladesh</h3>
+<h3 align="center">Confusion is part of programming</h3>
 
 - 🌱 I’m currently learning **Python**
 
